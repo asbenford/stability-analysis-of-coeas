@@ -16,11 +16,11 @@ import progress
 ###############################################################################
 # Experiment parameters, game definitions, and selection operators listed here
 # are the same as those used to generate Figure 2.
-pop_size = 100
-num_rows = 10 # Number of different values of q to test.
-num_cols = 10 # Number of different values of gamma to test.
+pop_size = 10_000
+num_rows = 100 # Number of different values of q to test.
+num_cols = 100 # Number of different values of gamma to test.
 runs_per_cell = 25
-max_fevals_per_run = 4000
+max_fevals_per_run = 400_000
 games = [
     Bilinear(n=50,a=35,b=10),
     PlantedBilinear(n=50),
