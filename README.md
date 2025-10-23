@@ -17,4 +17,4 @@ The default experiment specification in ``experiment.py`` is that used to produc
 
 ## References
 
-\[1\] A. Benford and P. K. Lehre. Theoretical Guarantees for the Retention of Strict Nash Equilibria by Coevolutionary Algorithms. In *Advances in Neural Information Processing Systems 38, NeurIPS '25, 2025.
+\[1\] A. Benford and P. K. Lehre. Theoretical Guarantees for the Retention of Strict Nash Equilibria by Coevolutionary Algorithms. In *Advances in Neural Information Processing Systems 38*, NeurIPS '25, 2025.
